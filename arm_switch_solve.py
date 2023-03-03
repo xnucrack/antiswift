@@ -1,3 +1,5 @@
+# TODO: make this script analyze all procedures in the binary.
+
 document = Document.getCurrentDocument()
 
 SWITCH_REF_OPCODE_PATTERN = [
