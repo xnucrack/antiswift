@@ -1,2 +1,2 @@
 # antiswift
-Hopper script that makes swift binaries easier to work with.
+Hopper scripts that make Swift binaries easier to work with.
