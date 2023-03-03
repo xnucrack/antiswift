@@ -1,6 +1,7 @@
 # antiswift
 Hopper scripts that make Swift binaries easier to work with.
 
+This repository is still a work-in-progress and it is still growing.
 
 ## arm_switch_solve.py
 
